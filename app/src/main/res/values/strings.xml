@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="firstNumLabelStr">Enter The First Number:</string>
+    <string name="firstNumLabel">Enter the First Number:</string>
+    <string name="enterNumHintStr">Enter a Number</string>
+    <string name="secondNumLabelStr">Enter the Second Number:</string>
+    <string name="secondNumStr">Enter Another Number</string>
+    <string name="addButtonStr">Add</string>
+    <string name="subButtonStr">Sub</string>
+    <string name="multButtonStr">Mult</string>
+    <string name="divButtonStr">Div</string>
+    <string name="answerStr">Answer</string>
+</resources>
